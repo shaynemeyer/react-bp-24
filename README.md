@@ -4,6 +4,24 @@ This is my React Boilerplate for 2024.
 
 ---
 
+## Using this boilerplate
+
+Clone this repository.
+
+### Install dependencies
+
+```sh
+npm i
+```
+
+### Run dev
+
+```sh
+npm run dev
+```
+
+---
+
 ## Uses
 
 - [Vite](https://vitejs.dev/guide/) - For creating the application.
